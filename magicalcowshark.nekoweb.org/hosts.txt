@@ -1,0 +1,59 @@
+127.0.0.1	localhost
+127.0.1.1	marinafodinhadolinux
+
+# ====================================================
+# = Marina's personal website blocklist!             =
+# = Includes: AI, porn, gore and personal choices.   =
+# = Will be updated every once in a while to         =
+# = include another website I want to avoid, even    =
+# = if it's for curiosity or anything.               =
+# = ------------------------------------------------ =
+# = FREE TO USE AND MODIFY!! Who tf gatekeeps lists  =
+# = List curated by Marina Komsomol Sputnik          =
+# ====================================================
+
+# AI websites
+127.0.0.1 chatgpt.com
+127.0.0.1 claude.ai
+127.0.0.1 deepseek.com
+127.0.0.1 copilot.microsoft.com
+127.0.0.1 gemini.google.com
+127.0.0.1 perplexity.ai
+127.0.0.1 midjourney.com
+127.0.0.1 openai.com
+127.0.0.1 huggingface.co
+127.0.0.1 suno.com
+127.0.0.1 character.ai
+127.0.0.1 polybuzz.ai
+127.0.0.1 chai-ai.com
+127.0.0.1 chai-research.com
+# Pornography websites
+127.0.0.1 xvideos.com
+127.0.0.1 pornhub.com
+127.0.0.1 rule34.xxx
+127.0.0.1 rule34video.com
+127.0.0.1 xnxx.com
+127.0.0.1 xhamster.com
+127.0.0.1 kemono.cr
+127.0.0.1 redtube.com
+# Gore websites
+127.0.0.1 itemfix.com
+127.0.0.1 xgore.com
+127.0.0.1 xgore.net
+127.0.0.1 bestgore.fun
+127.0.0.1 goregrish.com
+127.0.0.1 watchpeopledie.tv
+127.0.0.1 livegore.com
+127.0.0.1 goredb.com
+# Other (hateful or useless/garbage)
+127.0.0.1 tiktok.com
+127.0.0.1 4chan.org
+127.0.0.1 spotify.com
+127.0.0.1 shein.com
+127.0.0.1 8kun.top
+127.0.0.1 x.com
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
