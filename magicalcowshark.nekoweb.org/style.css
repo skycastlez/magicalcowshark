@@ -1,0 +1,56 @@
+@font-face {
+  font-family: YummyChunk;
+  src: url(/fonts/YummyChunk-4n0yW.woff);
+}
+@font-face {
+  font-family: CNLogo;
+  src: url(/fonts/CN-Powerhouse-Logo.woff);
+}
+body {
+      a {color:rgb(138, 16, 152)};
+      background-image: url('/images/Pizza_Parlor_2007.webp'); 
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      text-align: center;
+      font-family: CNLogo;
+      }
+
+.container {
+            display: flex;
+            background-image: linear-gradient(to bottom right, #FF33AA,#571B7E);
+        }
+
+        .container div {
+            margin: auto;
+            padding: 1.3rem;
+            font-size: 1.6rem;
+        }
+.textbox {
+  background-image: linear-gradient(to bottom left, #571B7E,#F6358A, #FF8040, #FFA600);
+  width: 70rem;
+  border: 0.7rem dashed#2E1A47;
+  padding: 3rem;
+  margin: 1.3rem;
+}
+ul.a {
+  list-style-type: disc;
+}
+ul.b {
+  list-style-type: square;
+}
+a:link {
+  color: #342D7E;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: #2E1A47;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+  color: #FF8040;
+  background-color: transparent;
+  text-decoration: dashed;
+}
